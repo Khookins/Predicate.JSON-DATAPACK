@@ -1,5 +1,6 @@
 {
     "values": [
-    "predicate_json:load"
+    "general_predicates:load",
+    "mob_predicates:load"
 ]
 }

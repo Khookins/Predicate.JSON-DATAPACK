@@ -1,5 +1,6 @@
 {
     "values": [
-    "predicate_json:tick"
+    "general_predicates:tick",
+    "mob_predicates:tick"
  ]
 }
